@@ -1328,7 +1328,12 @@ button2.addActionListener(new ActionListener() {
 							
 ```
 ### 五、系统运行结果
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://raw.githubusercontent.com/Xiamuaaaa/xueshengxuekexit/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191208171648%20(1).jpg)
+![Image text](https://raw.githubusercontent.com/Xiamuaaaa/xueshengxuekexit/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191208171648%20(2).jpg)
+![Image text](https://raw.githubusercontent.com/Xiamuaaaa/xueshengxuekexit/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191208171648%20(3%20(1).jpg)
+![Image text](https://raw.githubusercontent.com/Xiamuaaaa/xueshengxuekexit/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191208171648%20(3%20(2).jpg)
+![Image text](https://raw.githubusercontent.com/Xiamuaaaa/xueshengxuekexit/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191208171648%20(3%20(3).jpg)
+![Image text](https://raw.githubusercontent.com/Xiamuaaaa/xueshengxuekexit/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191208171648%20(3%20(4).jpg)
 ### 六、实验心得
 * 在这次实验中，是基于这学期所学课程进行的一次综合性实验，是检验我们对本学期的知识进行掌握，
 也是让我们对本学期的知识有了系统的理解。综合本学期知识，将其运用到学生选课系统当中，使我对String、
@@ -1336,22 +1341,3 @@ button2.addActionListener(new ActionListener() {
 使我更加进步。
 
 
-### 六、实验心得
-* 在这次实验中，是基于这学期所学课程进行的一次综合性实验，是检验我们对本学期的知识进行掌握，
-也是让我们对本学期的知识有了系统的理解。综合本学期知识，将其运用到学生选课系统当中，使我对String、
-异常、GUI有了更加深刻的印象。也让我对于它们的使用更加熟练。对于逻辑运用也有了更加深刻的印象。
-使我更加进步。
-
-
-### 六、实验心得
-* 在这次实验中，是基于这学期所学课程进行的一次综合性实验，是检验我们对本学期的知识进行掌握，
-也是让我们对本学期的知识有了系统的理解。综合本学期知识，将其运用到学生选课系统当中，使我对String、
-异常、GUI有了更加深刻的印象。也让我对于它们的使用更加熟练。对于逻辑运用也有了更加深刻的印象。
-使我更加进步。
-
-
-### 六、实验心得
-* 在这次实验中，是基于这学期所学课程进行的一次综合性实验，是检验我们对本学期的知识进行掌握，
-也是让我们对本学期的知识有了系统的理解。综合本学期知识，将其运用到学生选课系统当中，使我对String、
-异常、GUI有了更加深刻的印象。也让我对于它们的使用更加熟练。对于逻辑运用也有了更加深刻的印象。
-使我更加进步。
